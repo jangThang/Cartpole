@@ -17,14 +17,12 @@
 
 &nbsp; The project was trained in Cartpole Reinforcement Learning environment with **DQN** (Deep-Q-Network), **DDQN** (Double Deep-Q-Network), and **Dueling DQN** (Duel Deep-Q-Network) methods, and then the performance was compared.
 
-[DQN]
-<img width="50%" src="https://user-images.githubusercontent.com/48477448/160280995-bd539fe0-7784-4947-bc5c-afa8c1a97a41.gif"/>
 
-[DDQN]
-<img width="50%" src="https://user-images.githubusercontent.com/48477448/160281025-545b4cb5-6ff1-4d49-9bc0-52013e6af5af.gif"/>
+<img width="30%" src="https://user-images.githubusercontent.com/48477448/160280995-bd539fe0-7784-4947-bc5c-afa8c1a97a41.gif"/> [DQN]
+
+<img width="30%" src="https://user-images.githubusercontent.com/48477448/160281025-545b4cb5-6ff1-4d49-9bc0-52013e6af5af.gif"/> [DDQN]
   
-[Dueling DQN]
-<img width="50%" src="https://user-images.githubusercontent.com/48477448/160281056-56fe599e-68d7-47da-86d7-8822f253a33b.gif"/>
+<img width="30%" src="https://user-images.githubusercontent.com/48477448/160281056-56fe599e-68d7-47da-86d7-8822f253a33b.gif"/> [Dueling DQN]
 
 
 => [Project Description and result (detail)](https://star7sss.tistory.com/357) (My Blog)
