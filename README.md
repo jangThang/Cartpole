@@ -17,7 +17,7 @@
 
 &nbsp; The project was trained in Cartpole Reinforcement Learning environment with **DQN** (Deep-Q-Network), **DDQN** (Double Deep-Q-Network), and **Dueling DQN** (Duel Deep-Q-Network) methods, and then the performance was compared.
 
-<br><br>
+<br>
 
 <img width="30%" src="https://user-images.githubusercontent.com/48477448/160280995-bd539fe0-7784-4947-bc5c-afa8c1a97a41.gif"/> [DQN]
 
